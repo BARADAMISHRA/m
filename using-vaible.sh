@@ -1,0 +1,3 @@
+#!bin/bash
+MESSAGE="GOOD MORNING HAVE A GREAT DAY!!"
+echo $MESSAGE
